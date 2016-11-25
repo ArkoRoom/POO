@@ -1,0 +1,12 @@
+form{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+    padding: 1%;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+#createCharacters{
+    display: block;
+    margin: auto;
+}
